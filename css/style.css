@@ -1,0 +1,9 @@
+*{
+    color: brown
+}
+#quarto_p {
+    color: green;
+}
+h1 {
+    border: 10px solid blue;
+}
